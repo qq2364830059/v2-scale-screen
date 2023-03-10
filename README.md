@@ -23,5 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![img2](C:\Users\xiaodeng\Desktop\demo\v2-scale-screen\src\assets\imgs\img2.gif)
+![img2](https://raw.githubusercontent.com/qq2364830059/v2-scale-screen/master/src/assets/imgs/img2.gif)
 
