@@ -1,0 +1,11 @@
+{
+  "name": "v2-scale-screen",
+  "version": "1.0.1",
+  "private": false,
+  "description": "",
+  "main": "v2-scale-screen.umd.min.js",
+  "author": {
+    "name": "dmq",
+    "github":"https://github.com/qq2364830059/v2-scale-screen"
+  }
+}

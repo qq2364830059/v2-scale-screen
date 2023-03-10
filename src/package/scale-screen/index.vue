@@ -9,7 +9,7 @@
 export default {
   name: 'ScaleScreen',
   props: {
-    // 接受props传进来的屏幕大小
+    // 接受props传进来的屏幕大小（设计稿大小）
     width: {
       type: Number,
       default: 1920,

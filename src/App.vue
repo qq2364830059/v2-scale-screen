@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <scale-screen></scale-screen>
+    <scale-screen>
+      <img src="@/assets/imgs/img.png" alt="">
+    </scale-screen>
   </div>
 </template>
 
